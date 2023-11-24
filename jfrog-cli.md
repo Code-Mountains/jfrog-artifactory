@@ -96,3 +96,8 @@ $ jf rt del nuget/Sustainsys.Saml2
 ```
 $ jf rt search nuget/Sus*
 ```
+
+# Search for files with extension
+```
+$ jf rt search nuget/*.nupkg
+```
