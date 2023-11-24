@@ -85,3 +85,8 @@ GLOBAL OPTIONS:
    --help, -h     show help
    --version, -v  print the version
 ```
+
+# Delete package from JFrog Artifactory using jf cli:
+```
+$ jf rt del nuget/Sustainsys.Saml2
+```
