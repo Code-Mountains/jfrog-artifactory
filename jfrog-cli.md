@@ -101,3 +101,8 @@ $ jf rt search nuget/Sus*
 ```
 $ jf rt search nuget/*.nupkg
 ```
+
+# artifactory-ps/match.json
+```
+$ jf rt search --spec match.json
+```
