@@ -2,7 +2,7 @@
 
 # 1. Download the installer
 ```
-wget -O jfrog-compose-installer.tar.gz "https://releases.jfrog.io/artifactory/jfrog-prox/org/artifactory/pro/docker/jfrog-platform-trial-prox/[RELEASE]/jfrog-platform-trial-prox-[RELEASE]-compose.tar.gz"
+wget -O jfrog-compose-installer.tar.gz "https://releases.jfrog.io/artifactory/jfrog-prox/org/artifactory/pro/docker/jfrog-platform-trial-prox/7.71.5/jfrog-platform-trial-prox-7.71.5-compose.tar.gz"
 ```
 
 # 2. Extract it
