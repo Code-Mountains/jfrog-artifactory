@@ -1,6 +1,6 @@
 # 1. Download the installer
 ```
-wget -O jfrog-deb-installer.tar.gz "https://releases.jfrog.io/artifactory/jfrog-prox/org/artifactory/pro/deb/jfrog-platform-trial-prox/[RELEASE]/jfrog-platform-trial-prox-[RELEASE]-deb.tar.gz"
+wget -O jfrog-deb-installer.tar.gz "https://releases.jfrog.io/artifactory/jfrog-prox/org/artifactory/pro/deb/jfrog-platform-trial-prox/7.71.5/jfrog-platform-trial-prox-7.71.5-deb.tar.gz"
 ```
 
 # 2. Extract it
