@@ -5,3 +5,9 @@ echo "deb https://releases.jfrog.io/artifactory/jfrog-debs xenial contrib" | sud
 apt update;
 apt install -y jfrog-cli-v2-jf;
 ```
+
+# Verify Install
+```
+$ jf --version
+jf version 2.51.1
+```
