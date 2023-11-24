@@ -90,3 +90,9 @@ GLOBAL OPTIONS:
 ```
 $ jf rt del nuget/Sustainsys.Saml2
 ```
+
+
+# Search for package:
+```
+$ jf rt search nuget/Sus*
+```
